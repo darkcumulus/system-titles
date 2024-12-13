@@ -79,3 +79,4 @@ Customer MetaData Repository - [data model](https://fordnox.github.io/databasean
 Car Purchase - [data model](https://fordnox.github.io/databaseanswers/data_models/hardware_sales/index.htm) - [John Rex O. Gatchalian](https://github.com/lumberjaxxx) - 202280011@psu.palawan.edu.ph
 
 Blood Banks - [data model](https://fordnox.github.io/databaseanswers/data_models/blood_banks/index.htm) - [Ricky C. Castillo](https://github.com/psychopath-Alien) - 202080155@psu.palawan.edu.ph
+Call Centre - [data model](https://fordnox.github.io/databaseanswers/data_models/crm/call_centre_conceptual_erd.htm)-[Aneza H. Jamion](https://github.com/zha7nea) - 202280050@psu.palawan.edu.ph
