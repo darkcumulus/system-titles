@@ -87,3 +87,5 @@ Athletes and Events -  [data model](https://fordnox.github.io/databaseanswers/da
 Call Centre - [data model](https://fordnox.github.io/databaseanswers/data_models/crm/call_centre_conceptual_erd.htm)-[Aneza H. Jamion](https://github.com/zha7nea) - 202280050@psu.palawan.edu.ph
 
 Gaming Leagues - [data model](https://fordnox.github.io/databaseanswers/data_models/gaming_leagues/index.htm) -[John Wynne Jeresano](https://github.com/whynnne) 202280249@psu.palawan.edu.ph
+
+Event Reservations - [data model](https://fordnox.github.io/databaseanswers/data_models/event_reservations/index.htm) - [John Lester Balmaceda](https://github.com/lesterbal) - 202280345@psu.palawan.edu.ph
