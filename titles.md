@@ -84,3 +84,4 @@ Customers and Jobs - [data model](https://fordnox.github.io/databaseanswers/data
 
 Athletes and Events -  [data model](https://fordnox.github.io/databaseanswers/data_models/athletes/index.htm) - [Mark Silwyn Jardin](https://github.com/Silwynn) - 202280233@psu.palawan.edu.ph
 
+Call Centre - [data model](https://fordnox.github.io/databaseanswers/data_models/crm/call_centre_conceptual_erd.htm)-[Aneza H. Jamion](https://github.com/zha7nea) - 202280050@psu.palawan.edu.ph
