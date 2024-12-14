@@ -89,3 +89,5 @@ Call Centre - [data model](https://fordnox.github.io/databaseanswers/data_models
 Gaming Leagues - [data model](https://fordnox.github.io/databaseanswers/data_models/gaming_leagues/index.htm) -[John Wynne Jeresano](https://github.com/whynnne) 202280249@psu.palawan.edu.ph
 
 Event Reservations - [data model](https://fordnox.github.io/databaseanswers/data_models/event_reservations/index.htm) - [John Lester Balmaceda](https://github.com/lesterbal) - 202280345@psu.palawan.edu.ph
+
+My life Data Model - [data model](https://fordnox.github.io/databaseanswers/data_models/my_life/index.htm) - [Michael laurence B, Maico](https://github.com/MichaelLaurenceMaico) - 201980370@psu.palawan.edu.ph
